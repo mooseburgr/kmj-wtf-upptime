@@ -6,6 +6,7 @@ sites:
     url: https://kmj.wtf
   - name: plex server
     url: $PLEX_URL/identity
+    icon: https://app.plex.tv/desktop/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
