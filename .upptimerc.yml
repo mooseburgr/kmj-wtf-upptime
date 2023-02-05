@@ -5,7 +5,8 @@ sites:
   - name: kmj.wtf
     url: https://kmj.wtf
   - name: plex server
-    url: $PLEX_URL/identity
+    url: $PLEX_URL/identity 
+    __dangerous__disable_verify_peer: true
     icon: https://app.plex.tv/desktop/favicon.ico
 
 status-website:
