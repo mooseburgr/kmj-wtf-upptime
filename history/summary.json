@@ -22,7 +22,7 @@
     "url": "$PLEX_URL/identity",
     "icon": "https://app.plex.tv/desktop/favicon.ico",
     "slug": "plex-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 1094,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2023-06-17": 0,
       "2023-06-14": 264,
       "2023-06-13": 41,
       "2023-06-05": 27,
