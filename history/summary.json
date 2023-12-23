@@ -4,20 +4,18 @@
     "url": "https://kmj.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/kmj.wtf.ico",
     "slug": "kmj-wtf",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 565,
-    "timeWeek": 333,
-    "timeMonth": 300,
-    "timeYear": 312,
-    "dailyMinutesDown": {
-      "2023-12-22": 11
-    }
+    "time": 313,
+    "timeDay": 364,
+    "timeWeek": 354,
+    "timeMonth": 304,
+    "timeYear": 313,
+    "dailyMinutesDown": {}
   },
   {
     "name": "plex server",
@@ -31,9 +29,9 @@
     "uptimeMonth": "92.27%",
     "uptimeYear": "95.15%",
     "time": 806,
-    "timeDay": 430,
-    "timeWeek": 1251,
-    "timeMonth": 665,
+    "timeDay": 471,
+    "timeWeek": 1256,
+    "timeMonth": 667,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2023-12-18": 38,
