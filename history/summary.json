@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 57,
-    "timeWeek": 298,
-    "timeMonth": 356,
-    "timeYear": 315,
+    "time": 314,
+    "timeDay": 95,
+    "timeWeek": 242,
+    "timeMonth": 344,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://app.plex.tv/desktop/favicon.ico",
     "slug": "plex-server",
     "status": "up",
-    "uptime": "95.63%",
-    "uptimeDay": "97.89%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "95.63%",
-    "time": 836,
-    "timeDay": 2941,
-    "timeWeek": 1568,
-    "timeMonth": 1274,
-    "timeYear": 836,
+    "uptime": "95.64%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "95.64%",
+    "time": 835,
+    "timeDay": 3577,
+    "timeWeek": 1631,
+    "timeMonth": 1315,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-02-04": 31,
+      "2024-02-04": 17,
       "2024-02-02": 61,
       "2024-01-31": 322,
       "2024-01-09": 27,
@@ -89,8 +89,7 @@
       "2023-02-09": 7,
       "2023-02-08": 5,
       "2023-02-07": 16,
-      "2023-02-06": 284,
-      "2023-02-05": 39
+      "2023-02-06": 284
     }
   }
 ]
