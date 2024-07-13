@@ -1,7 +1,7 @@
 url: $PLEX_URL/identity
 status: up
 code: 200
-responseTime: 311
-lastUpdated: 2024-07-12T23:03:45.840Z
+responseTime: 275
+lastUpdated: 2024-07-13T23:03:24.473Z
 startTime: 2023-02-05T02:42:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
