@@ -4,19 +4,19 @@
     "url": "https://kmj.wtf",
     "icon": "https://icons.duckduckgo.com/ip3/kmj.wtf.ico",
     "slug": "kmj-wtf",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 4343,
-    "timeWeek": 995,
-    "timeMonth": 469,
-    "timeYear": 339,
+    "time": 342,
+    "timeDay": 5698,
+    "timeWeek": 1861,
+    "timeMonth": 681,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-08-16": 0
+      "2024-08-16": 11
     }
   },
   {
