@@ -6,17 +6,16 @@
     "slug": "kmj-wtf",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.99%",
     "time": 406,
-    "timeDay": 1856,
-    "timeWeek": 1108,
+    "timeDay": 257,
+    "timeWeek": 990,
     "timeMonth": 1371,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-09-13": 12,
       "2024-09-12": 38,
       "2024-09-06": 22,
       "2024-08-16": 16
@@ -29,15 +28,15 @@
     "slug": "plex-server",
     "status": "up",
     "uptime": "96.86%",
-    "uptimeDay": "98.24%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "98.06%",
-    "time": 1013,
-    "timeDay": 334,
-    "timeWeek": 1403,
-    "timeMonth": 1024,
-    "timeYear": 1017,
+    "time": 1012,
+    "timeDay": 441,
+    "timeWeek": 1470,
+    "timeMonth": 1026,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2024-09-12": 25,
       "2024-09-10": 18,
@@ -92,8 +91,7 @@
       "2023-10-28": 21,
       "2023-10-27": 149,
       "2023-10-18": 105,
-      "2023-10-08": 87,
-      "2023-09-15": 928
+      "2023-10-08": 87
     }
   }
 ]
