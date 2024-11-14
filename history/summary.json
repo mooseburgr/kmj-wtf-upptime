@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 459,
-    "timeDay": 137,
-    "timeWeek": 319,
-    "timeMonth": 879,
+    "timeDay": 356,
+    "timeWeek": 299,
+    "timeMonth": 882,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2024-09-14": 22,
@@ -29,14 +29,14 @@
     "slug": "plex-server",
     "status": "up",
     "uptime": "97.24%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "89.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "95.46%",
     "time": 1009,
-    "timeDay": 349,
-    "timeWeek": 552,
-    "timeMonth": 1325,
+    "timeDay": 268,
+    "timeWeek": 499,
+    "timeMonth": 1304,
     "timeYear": 1016,
     "dailyMinutesDown": {
       "2024-11-12": 17,
@@ -105,8 +105,7 @@
       "2023-12-16": 366,
       "2023-12-12": 59,
       "2023-12-05": 993,
-      "2023-11-28": 488,
-      "2023-11-15": 147
+      "2023-11-28": 488
     }
   }
 ]
